@@ -1,0 +1,23 @@
+h1 {
+color: black;
+background-color: rgb(180, 224, 240);
+text-align: center;
+border-radius: 50px;
+}
+.header {
+text-align: left;
+text-indent: 60px;
+}
+img {
+    border-radius: 110px;
+    border-style: solid;
+    border-color: darkgrey;
+}
+h3 {
+background-color:rgb(180, 224, 240);
+border-radius: 10px;
+text-align: center;
+}
+.Contact-Me {
+    text-align: center;
+}
